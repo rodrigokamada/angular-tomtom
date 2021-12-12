@@ -248,7 +248,9 @@ Build at: 2021-12-12T17:33:13.265Z - Hash: e4a77c4fe28aa482 - Time: 4248ms
 ✔ Compiled successfully.
 ```
 
-* **Note:** If the error `Module '"/node_modules/@types/geojson/index"' has no default export. Did you mean to use 'import { GeoJSON } from "/node_modules/@types/geojson/index"' instead?` occurs, add the setting `allowSyntheticDefaultImports` in the `tsconfig.json` file as below.
+**Note:**
+
+* If the error `Module '"/node_modules/@types/geojson/index"' has no default export. Did you mean to use 'import { GeoJSON } from "/node_modules/@types/geojson/index"' instead?` occurs, add the setting `allowSyntheticDefaultImports` in the `tsconfig.json` file as below.
 
 ```typescript
 {
@@ -256,7 +258,6 @@ Build at: 2021-12-12T17:33:13.265Z - Hash: e4a77c4fe28aa482 - Time: 4248ms
     "allowSyntheticDefaultImports": true
   }
 }
-
 ```
 
 **10.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-tomtom/) and [Stackblitz](https://stackblitz.com/edit/angular13-tomtom).
