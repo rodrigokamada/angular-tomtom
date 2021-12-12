@@ -262,7 +262,7 @@ Build at: 2021-12-12T17:33:13.265Z - Hash: e4a77c4fe28aa482 - Time: 4248ms
 
 **10.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-tomtom/) and [Stackblitz](https://stackblitz.com/edit/angular13-tomtom).
 
-![Angular TomTom](https://res.cloudinary.com/rodrigokamada/image/upload/v1637580179/Blog/angular-leaflet/angular-leaflet.png)
+![Angular TomTom](https://res.cloudinary.com/rodrigokamada/image/upload/v1639351457/Blog/angular-tomtom/angular-tomtom.png)
 
 
 
