@@ -3,7 +3,7 @@
 
 Application example built with [Angular](https://angular.io/) 13 and adding the map TomTom component using the [@tomtom-international/web-sdk-maps](https://www.npmjs.com/package/@tomtom-international/web-sdk-maps) library.
 
-This tutorial was posted on my [blog]() in portuguese and on the [DEV Community]() in english.
+This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-tomtom-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-map-tomtom-component-to-an-angular-application-54fk) in english.
 
 
 
