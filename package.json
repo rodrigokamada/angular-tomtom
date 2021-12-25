@@ -1,8 +1,9 @@
 {
   "name": "angular-tomtom",
   "version": "1.0.0",
-  "private": true,
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
+  "license": "MIT",
+  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
