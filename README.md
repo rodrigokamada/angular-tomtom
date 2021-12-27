@@ -110,7 +110,7 @@ tomtom: {
 },
 ```
 
-**4.** Install the `@tomtom-international/web-sdk-maps` libraries.
+**4.** Install the `@tomtom-international/web-sdk-maps` library.
 
 ```powershell
 npm install @tomtom-international/web-sdk-maps
