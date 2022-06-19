@@ -1,6 +1,7 @@
 {
   "name": "angular-tomtom",
   "version": "1.0.0",
+  "description": "Application example built with Angular 14 and adding the map component using the @tomtom-international/web-sdk-maps library.",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,
