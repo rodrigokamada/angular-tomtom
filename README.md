@@ -1,7 +1,7 @@
 # Angular TomTom
 
 
-Application example built with [Angular](https://angular.io/) 13 and adding the map TomTom component using the [@tomtom-international/web-sdk-maps](https://www.npmjs.com/package/@tomtom-international/web-sdk-maps) library.
+Application example built with [Angular](https://angular.io/) 14 and adding the map TomTom component using the [@tomtom-international/web-sdk-maps](https://www.npmjs.com/package/@tomtom-international/web-sdk-maps) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-componente-de-mapa-tomtom-em-uma-aplicacao-angular) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-map-tomtom-component-to-an-angular-application-54fk) in english.
 
@@ -260,7 +260,7 @@ Build at: 2021-12-12T17:33:13.265Z - Hash: e4a77c4fe28aa482 - Time: 4248ms
 }
 ```
 
-**10.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-tomtom/) and [Stackblitz](https://stackblitz.com/edit/angular13-tomtom).
+**10.** Ready! Access the URL `http://localhost:4200/` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/angular-tomtom/) and [Stackblitz](https://stackblitz.com/edit/angular14-tomtom).
 
 ![Angular TomTom](https://res.cloudinary.com/rodrigokamada/image/upload/v1639351457/Blog/angular-tomtom/angular-tomtom.png)
 
